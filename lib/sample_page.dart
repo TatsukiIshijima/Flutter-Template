@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:fluttertemplete/flavor.dart';
-import 'package:fluttertemplete/localize/AppLocalizations.dart';
+import 'package:fluttertemplate/flavor.dart';
+import 'package:fluttertemplate/localize/AppLocalizations.dart';
 import 'package:provider/provider.dart';
 
 class SamplePage extends StatelessWidget {

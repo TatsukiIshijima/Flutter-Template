@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'package:fluttertemplete/localize/AppLocalizations.dart';
-import 'package:fluttertemplete/localize/AppLocalizationsDelegate.dart';
-import 'package:fluttertemplete/sample_page.dart';
+import 'package:fluttertemplate/localize/AppLocalizations.dart';
+import 'package:fluttertemplate/localize/AppLocalizationsDelegate.dart';
+import 'package:fluttertemplate/sample_page.dart';
 
 class App extends StatelessWidget {
   @override
