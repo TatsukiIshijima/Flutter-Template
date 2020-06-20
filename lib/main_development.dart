@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:fluttertemplete/app.dart';
+import 'package:fluttertemplete/flavor.dart';
+import 'package:provider/provider.dart';
 
 void main() {
-  runApp(App());
+  runApp(Provider<Flavor>.value(value: Flavor.development, child: App()));
 }
