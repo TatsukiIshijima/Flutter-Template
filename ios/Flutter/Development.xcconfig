@@ -1,0 +1,4 @@
+FLUTTER_FLAVOR=Development
+PRODUCT_BUNDLE_IDENTIFIER=com.sample.fluttertemplete.dev
+DISPLAY_NAME=dev fluttertemplete
+FLUTTER_TARGET=lib/main_development.dart

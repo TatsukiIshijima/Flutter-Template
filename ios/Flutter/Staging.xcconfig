@@ -1,0 +1,4 @@
+FLUTTER_FLAVOR=Staging
+PRODUCT_BUNDLE_IDENTIFIER=com.sample.fluttertemplete.stg
+DISPLAY_NAME=stg fluttertemplete
+FLUTTER_TARGET=lib/main_staging.dart
