@@ -1,4 +1,4 @@
 FLUTTER_FLAVOR=Production
-PRODUCT_BUNDLE_IDENTIFIER=com.sample.fluttertemplete
-DISPLAY_NAME=fluttertemplete
+PRODUCT_BUNDLE_IDENTIFIER=com.sample.fluttertemplate
+DISPLAY_NAME=fluttertemplate
 FLUTTER_TARGET=lib/main.dart
