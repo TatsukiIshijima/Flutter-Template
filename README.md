@@ -19,9 +19,10 @@ Flutter プロジェクトのテンプレート。主に以下内容を設定済
 2. プロジェクトをリネーム
 3. プロジェクトを閉じ、Finder 等からFlutter のプロジェクトフォルダをリネーム
 4. Import している部分のパスを修正（パッケージ名を変更したため）
-5. Android の AndroidManifest.xml で package名を変更（パッケージ名を変更したため）
+5. Android の AndroidManifest.xml（debug, profile, main配下） で package名を変更（パッケージ名を変更したため）
 6. Android の app -> build.gradle の ApplicationID を変更（パッケージ名を変更したため）
 7. Android src 配下の該当パッケージ名を変更（パッケージ名を変更したため）
+8. MainActivityのインポートパスの修正（パッケージ名を変更したため）
 8. iOS の info.plist の CBBundleName を変更（パッケージ名を変更したため）
 
 - android 配下の .iml がリネームできずに残るが普通にリネームしてOK
